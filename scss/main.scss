@@ -1,0 +1,12 @@
+@import "config";
+@import "variables";
+@import "nav";
+
+@import "watchnow";
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: $main-color;
+  color: $text-color;
+  margin: 0 auto;
+}

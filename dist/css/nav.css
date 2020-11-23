@@ -1,0 +1,16 @@
+.main-nav {
+  text-decoration: none;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.log-in {
+  color: white;
+}
+/*# sourceMappingURL=nav.css.map */
